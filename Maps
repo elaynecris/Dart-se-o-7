@@ -1,0 +1,12 @@
+main() {
+  var maps={ 
+    "nome":"Elayne Cristina "
+      "idade":28
+        "cidade":"Fortaleza"
+          "cidade natal": "Itarema"
+            "estado":"Ceará"
+            "cep":60453200
+              "Rua":"Floriano Sena"
+                "complemento":"casa"
+                  "número": 800,
+  };
